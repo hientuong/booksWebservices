@@ -6,4 +6,7 @@ var db = require('./db');
 var BookController = require('./Controllers/BookController')
 app.use('/books', BookController)
 
+var UserController = require('./Controllers/UserController')
+app.use('/users', UserController)
+
 module.exports = app;
