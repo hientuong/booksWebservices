@@ -1,0 +1,25 @@
+{
+  "name": "booksapi",
+  "version": "1.0.0",
+  "description": "This is webservices writed by expressjs + mongodb",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hientuong/booksWebservices.git"
+  },
+  "author": "hientuong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hientuong/booksWebservices/issues"
+  },
+  "homepage": "https://github.com/hientuong/booksWebservices#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "npm": "^6.0.1",
+    "to": "^0.2.9",
+    "update": "^0.7.4"
+  }
+}
